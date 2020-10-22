@@ -1,0 +1,10 @@
+h1 {
+  color: aquamarine;
+  background-color: crimson;
+  padding-left:"200px";
+}
+li {
+  font-weight: 600px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: darkgreen;
+}
